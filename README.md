@@ -22,8 +22,7 @@ Data consistency: Changes to user profiles after registration can cause unexpect
 Implement solution using the Builder Pattern to address the issue.
 
 # UML-DIAGRAM
-
-
+<img width="1395" alt="WK1-2_UML_BUILDER_PATTERN_CHUA_VINCE" src="https://github.com/VinceTedChua/builderPattern/assets/142372312/ab3f9796-6c61-41bb-a7d9-d293999420b7">
 
 
 # JAVA-Solution 
